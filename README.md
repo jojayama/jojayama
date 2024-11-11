@@ -6,7 +6,7 @@ Welcome to my GitHub! Here, I share projects that demonstrate my skills in softw
 I’m a software engineer with a passion for building meaningful solutions, from concept to deployment. I bring experience from professional roles, academic projects, and collaborative work within organizations like Hack4Impact and Cal Poly’s Theta Tau. I enjoy contributing to projects that make an impact and am always open to learning and collaboration.
 
 ### 🛠️ Technical Skills
-- **Languages:** Python, Java, JavaScript, C, RISC-V
+- **Languages:** Python, Java, JavaScript, C, RISC-V, SQL
 - **Frameworks & Libraries:** React, Node.js, Vercel
 - **Tools & Platforms:** Git, Azure, AWS, Figma, Power Platforms
 - **Web Development & Methodologies:** HTML, CSS, Figma, Agile, SDLC
@@ -20,8 +20,8 @@ Here’s a quick overview of what you’ll find on my GitHub:
 For more details on each project, [visit my portfolio](http://localhost:5173).
 
 ### 🌱 Currently Learning
-- Advanced data structures and algorithms
-- Modern UI/UX design practices
+- Basic principles of database management systems (DBMS) and DBMS application development
+- Computer system and network security, including protection, access control, cryptography, firewalls and secure coding practices.
 
 ### 📫 Get in Touch
 - **LinkedIn:** [https://www.linkedin.com/in/jodi-yamane-615708253](https://www.linkedin.com/in/jodi-yamane-615708253)
